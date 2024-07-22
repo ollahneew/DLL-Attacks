@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+    curl_easy_init @6
+    curl_easy_setopt @16
+    curl_easy_cleanup @1
+    curl_easy_perform @12
